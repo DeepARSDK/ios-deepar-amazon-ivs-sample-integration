@@ -1,0 +1,16 @@
+PODS:
+  - AmazonIVSBroadcast (1.2.0)
+
+DEPENDENCIES:
+  - AmazonIVSBroadcast
+
+SPEC REPOS:
+  trunk:
+    - AmazonIVSBroadcast
+
+SPEC CHECKSUMS:
+  AmazonIVSBroadcast: b52aa30ceb6e4ca35a51ad93b41cfd9700d378bb
+
+PODFILE CHECKSUM: e61724aa514ee3f8e4b948c206ea56fa117dfe94
+
+COCOAPODS: 1.9.3
