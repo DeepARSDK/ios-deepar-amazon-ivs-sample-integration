@@ -38,9 +38,9 @@ enum Masks: String, CaseIterable {
     case koala
     case lion
     case mudMask
-    case obama
+    case Emotions_Exaggerator
     case pug
-    case slash
+    case Humanoid
     case sleepingmask
     case smallface
     case teddycigar

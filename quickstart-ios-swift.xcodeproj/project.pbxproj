@@ -23,13 +23,11 @@
 		198B5D86239FDE500035E21B /* fatify in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D6A239FDE4F0035E21B /* fatify */; };
 		198B5D87239FDE500035E21B /* tripleface in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D6B239FDE4F0035E21B /* tripleface */; };
 		198B5D88239FDE500035E21B /* sepia in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D6C239FDE4F0035E21B /* sepia */; };
-		198B5D89239FDE500035E21B /* slash in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D6D239FDE4F0035E21B /* slash */; };
 		198B5D8A239FDE500035E21B /* teddycigar in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D6E239FDE4F0035E21B /* teddycigar */; };
 		198B5D8B239FDE500035E21B /* smallface in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D6F239FDE4F0035E21B /* smallface */; };
 		198B5D8C239FDE500035E21B /* fire in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D70239FDE4F0035E21B /* fire */; };
 		198B5D8E239FDE500035E21B /* mudMask in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D72239FDE4F0035E21B /* mudMask */; };
 		198B5D8F239FDE500035E21B /* aviators in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D73239FDE4F0035E21B /* aviators */; };
-		198B5D90239FDE500035E21B /* obama in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D74239FDE4F0035E21B /* obama */; };
 		198B5D91239FDE500035E21B /* filmcolorperfection in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D75239FDE4F0035E21B /* filmcolorperfection */; };
 		198B5D92239FDE500035E21B /* koala in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D76239FDE4F0035E21B /* koala */; };
 		198B5D93239FDE500035E21B /* bigmouth in Resources */ = {isa = PBXBuildFile; fileRef = 198B5D77239FDE4F0035E21B /* bigmouth */; };
@@ -44,6 +42,8 @@
 		66B67B3E27C6869500B0AEA9 /* Pods_quickstart_ios_swift.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 57FCCA6001D87DA521AE9762 /* Pods_quickstart_ios_swift.framework */; };
 		66B67B4127C686E500B0AEA9 /* AmazonIVSBroadcast.xcframework in Frameworks */ = {isa = PBXBuildFile; fileRef = 66B67B4027C686E500B0AEA9 /* AmazonIVSBroadcast.xcframework */; };
 		66B67B4227C686E500B0AEA9 /* AmazonIVSBroadcast.xcframework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 66B67B4027C686E500B0AEA9 /* AmazonIVSBroadcast.xcframework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
+		8D1CD78B2805EC95004A3533 /* Emotions_Exaggerator in Resources */ = {isa = PBXBuildFile; fileRef = 8D1CD78A2805EC95004A3533 /* Emotions_Exaggerator */; };
+		8D1CD78D2805ECA6004A3533 /* Humanoid in Resources */ = {isa = PBXBuildFile; fileRef = 8D1CD78C2805ECA6004A3533 /* Humanoid */; };
 		8DC5173A26D00D0600481208 /* Helmet_PBR_V1 in Resources */ = {isa = PBXBuildFile; fileRef = 8DC5173926D00D0600481208 /* Helmet_PBR_V1 */; };
 		9A49710124FE579800DD9C86 /* StartViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9A49710024FE579800DD9C86 /* StartViewController.swift */; };
 		9AD3123024BE299500B2CDD0 /* bcgSeg in Resources */ = {isa = PBXBuildFile; fileRef = 9AD3122F24BE299500B2CDD0 /* bcgSeg */; };
@@ -82,13 +82,11 @@
 		198B5D6A239FDE4F0035E21B /* fatify */ = {isa = PBXFileReference; lastKnownFileType = file; path = fatify; sourceTree = "<group>"; };
 		198B5D6B239FDE4F0035E21B /* tripleface */ = {isa = PBXFileReference; lastKnownFileType = file; path = tripleface; sourceTree = "<group>"; };
 		198B5D6C239FDE4F0035E21B /* sepia */ = {isa = PBXFileReference; lastKnownFileType = file; path = sepia; sourceTree = "<group>"; };
-		198B5D6D239FDE4F0035E21B /* slash */ = {isa = PBXFileReference; lastKnownFileType = file; path = slash; sourceTree = "<group>"; };
 		198B5D6E239FDE4F0035E21B /* teddycigar */ = {isa = PBXFileReference; lastKnownFileType = file; path = teddycigar; sourceTree = "<group>"; };
 		198B5D6F239FDE4F0035E21B /* smallface */ = {isa = PBXFileReference; lastKnownFileType = file; path = smallface; sourceTree = "<group>"; };
 		198B5D70239FDE4F0035E21B /* fire */ = {isa = PBXFileReference; lastKnownFileType = file; path = fire; sourceTree = "<group>"; };
 		198B5D72239FDE4F0035E21B /* mudMask */ = {isa = PBXFileReference; lastKnownFileType = file; path = mudMask; sourceTree = "<group>"; };
 		198B5D73239FDE4F0035E21B /* aviators */ = {isa = PBXFileReference; lastKnownFileType = file; path = aviators; sourceTree = "<group>"; };
-		198B5D74239FDE4F0035E21B /* obama */ = {isa = PBXFileReference; lastKnownFileType = file; path = obama; sourceTree = "<group>"; };
 		198B5D75239FDE4F0035E21B /* filmcolorperfection */ = {isa = PBXFileReference; lastKnownFileType = file; path = filmcolorperfection; sourceTree = "<group>"; };
 		198B5D76239FDE4F0035E21B /* koala */ = {isa = PBXFileReference; lastKnownFileType = file; path = koala; sourceTree = "<group>"; };
 		198B5D77239FDE4F0035E21B /* bigmouth */ = {isa = PBXFileReference; lastKnownFileType = file; path = bigmouth; sourceTree = "<group>"; };
@@ -104,6 +102,8 @@
 		66B67B3627C6773C00B0AEA9 /* DeepAR.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = DeepAR.xcframework; path = "quickstart-ios-swift/Frameworks/DeepAR.xcframework"; sourceTree = "<group>"; };
 		66B67B4027C686E500B0AEA9 /* AmazonIVSBroadcast.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = AmazonIVSBroadcast.xcframework; path = Pods/AmazonIVSBroadcast/AmazonIVSBroadcast.xcframework; sourceTree = "<group>"; };
 		7D9488450CDD059369E21E60 /* Pods-quickstart-ios-swift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-quickstart-ios-swift.debug.xcconfig"; path = "Target Support Files/Pods-quickstart-ios-swift/Pods-quickstart-ios-swift.debug.xcconfig"; sourceTree = "<group>"; };
+		8D1CD78A2805EC95004A3533 /* Emotions_Exaggerator */ = {isa = PBXFileReference; lastKnownFileType = file; path = Emotions_Exaggerator; sourceTree = "<group>"; };
+		8D1CD78C2805ECA6004A3533 /* Humanoid */ = {isa = PBXFileReference; lastKnownFileType = file; path = Humanoid; sourceTree = "<group>"; };
 		8DC5173926D00D0600481208 /* Helmet_PBR_V1 */ = {isa = PBXFileReference; lastKnownFileType = file; path = Helmet_PBR_V1; sourceTree = "<group>"; };
 		9A49710024FE579800DD9C86 /* StartViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartViewController.swift; sourceTree = "<group>"; };
 		9AD3122F24BE299500B2CDD0 /* bcgSeg */ = {isa = PBXFileReference; lastKnownFileType = file; path = bcgSeg; sourceTree = "<group>"; };
@@ -153,17 +153,17 @@
 				198B5D6A239FDE4F0035E21B /* fatify */,
 				198B5D6B239FDE4F0035E21B /* tripleface */,
 				198B5D6C239FDE4F0035E21B /* sepia */,
-				198B5D6D239FDE4F0035E21B /* slash */,
 				198B5D6E239FDE4F0035E21B /* teddycigar */,
 				198B5D6F239FDE4F0035E21B /* smallface */,
 				198B5D70239FDE4F0035E21B /* fire */,
 				198B5D72239FDE4F0035E21B /* mudMask */,
 				198B5D73239FDE4F0035E21B /* aviators */,
-				198B5D74239FDE4F0035E21B /* obama */,
 				198B5D75239FDE4F0035E21B /* filmcolorperfection */,
 				198B5D76239FDE4F0035E21B /* koala */,
 				198B5D77239FDE4F0035E21B /* bigmouth */,
 				198B5D78239FDE4F0035E21B /* lion */,
+				8D1CD78C2805ECA6004A3533 /* Humanoid */,
+				8D1CD78A2805EC95004A3533 /* Emotions_Exaggerator */,
 				8DC5173926D00D0600481208 /* Helmet_PBR_V1 */,
 			);
 			path = Effects;
@@ -298,9 +298,7 @@
 				198B5D8A239FDE500035E21B /* teddycigar in Resources */,
 				198B5D83239FDE500035E21B /* pug in Resources */,
 				198B5D86239FDE500035E21B /* fatify in Resources */,
-				198B5D89239FDE500035E21B /* slash in Resources */,
 				198B5D7A239FDE500035E21B /* sleepingmask in Resources */,
-				198B5D90239FDE500035E21B /* obama in Resources */,
 				198B5D84239FDE500035E21B /* blizzard in Resources */,
 				9AD3123024BE299500B2CDD0 /* bcgSeg in Resources */,
 				198B5D8F239FDE500035E21B /* aviators in Resources */,
@@ -310,8 +308,10 @@
 				198B5D7D239FDE500035E21B /* drawingmanga in Resources */,
 				8DC5173A26D00D0600481208 /* Helmet_PBR_V1 in Resources */,
 				198B5D79239FDE500035E21B /* twistedFace in Resources */,
+				8D1CD78D2805ECA6004A3533 /* Humanoid in Resources */,
 				198B5D85239FDE500035E21B /* realvhs in Resources */,
 				198B5D82239FDE500035E21B /* flowers in Resources */,
+				8D1CD78B2805EC95004A3533 /* Emotions_Exaggerator in Resources */,
 				198B5D87239FDE500035E21B /* tripleface in Resources */,
 				198B5D8C239FDE500035E21B /* fire in Resources */,
 				198B5D94239FDE500035E21B /* lion in Resources */,
