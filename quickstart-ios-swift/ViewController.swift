@@ -220,7 +220,7 @@ class ViewController: UIViewController, IVSBroadcastSession.Delegate {
         self.deepAR.setLicenseKey("your_license_key_here")
         
         cameraController = CameraController()
-        cameraController.preset = AVCaptureSession.Preset.hd1280x720
+        cameraController.preset = AVCaptureSession.Preset.vga640x480
         cameraController.deepAR = self.deepAR
         self.deepAR.videoRecordingWarmupEnabled = false;
         
